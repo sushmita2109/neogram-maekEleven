@@ -31,7 +31,8 @@ input{
 }
 
 .footer {
-    margin-top: 15rem;
+    position: relative;
+    margin-top: 230px;
     border-top: 2px solid black;
 }
 .footer div {
